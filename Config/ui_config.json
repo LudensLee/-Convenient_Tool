@@ -1,0 +1,35 @@
+{
+    "Config": {
+                "ColumnName"        :{
+                                        "Column1":"Item",
+                                        "Column2":"Param1",
+                                        "Column3":"Param2",
+                                        "Column4":"Param3"
+                                     },
+
+                "Device"              :{
+                                        "FixtureNum":3,
+                                        "SlotNum":2
+                                     },
+
+                "Port"              :{
+                                        "REP":7777,
+                                        "SUB":4396
+                                     }
+                },
+
+    "ItemTable":{
+
+
+
+                    "Example":  {
+                              "Example"              :{
+                                                        "IoTableList":"",
+                                                        "FunctionName":"Example",
+                                                        "Type":"Line"
+                                                      },
+                            },
+
+
+                }     
+}

@@ -1,0 +1,2 @@
+# -Convenient_Tool
+使用pyside2编写ui，通过修改ui_config增加不同的功能，或者修改ui层去更改相应的模块
